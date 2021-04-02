@@ -35,3 +35,5 @@ install_requires = ["rich", "prompt-toolkit", "requests", "pygments"]
 
 if __name__ == "__main__":
     setup(**setup_args, install_requires=install_requires)
+
+			
